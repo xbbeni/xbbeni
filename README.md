@@ -1,6 +1,6 @@
 Hi, I’m @xbbeni aka Gabriel Benito, a male human being with 23yo and nothing more than 1,68m tall.
 Importante dizer que sou Brasileiro, nascido e criado no país.
-Important to say that I´m a Brazilian guy, raised and born on country
+Important to say that I´m a Brazilian guy, born and raised on country
 
 At this moment off my life I´m addicted to learning the basics of DEV, like CSS/JavaScript/HTML, but you all know - open to learn a little (or a bunch) of everything.
 
